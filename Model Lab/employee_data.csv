@@ -1,0 +1,6 @@
+Experience,Salary,Satisfaction,WorkLifeBalance,Attrition
+Low,Low,Poor,Yes,Yes
+Medium,Medium,Average,Yes,No
+High,High,Good,No,No
+High,Medium,Good,No,No
+Low,Medium,Average,Yes,Yes
